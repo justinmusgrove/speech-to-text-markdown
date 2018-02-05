@@ -1,0 +1,11 @@
+{
+  "name": "speech-to-text-markdown",
+  "version": "1.0.0",
+  "description": "Package that converts speech to text responses to markdown",
+  "main": "index.js",
+  "author": "Justin Musgrove",
+  "scripts": {
+    "start": "node index.js"
+	},
+  "license": "MIT"
+}
